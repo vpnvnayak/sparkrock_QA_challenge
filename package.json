@@ -1,0 +1,16 @@
+{
+  "name": "sevaro-qa-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Senior QA Engineer real work challenge - SauceDemo + Playwright TS",
+  "scripts": {
+    "test": "playwright test",
+    "test:smoke": "playwright test --grep @smoke",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "typescript": "^5.5.4",
+    "@types/node": "^22.10.2"
+  }
+}
