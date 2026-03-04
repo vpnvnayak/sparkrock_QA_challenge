@@ -1,4 +1,4 @@
-# Sevaro Senior QA Engineer – Real Work Challenge (SauceDemo + Playwright TS)
+# Senior QA Engineer – Challenge (SauceDemo + Playwright TS)
 
 This repo contains:
 - A **test design** document and **test cases** (pre-written) in `docs/`
