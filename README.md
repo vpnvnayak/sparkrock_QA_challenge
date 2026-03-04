@@ -1,4 +1,4 @@
-# Senior QA Engineer – Challenge (SauceDemo + Playwright TS)
+#  Senior QA Engineer – Real Work Challenge (SauceDemo + Playwright TS)
 
 This repo contains:
 - A **test design** document and **test cases** (pre-written) in `docs/`
@@ -47,7 +47,7 @@ npx playwright show-report
 
 ## Project structure
 ```
-sevaro-qa-challenge/
+qa-challenge/
   docs/                     # test design + test cases
   pages/                    # page objects
   tests/                    # specs (automation)
